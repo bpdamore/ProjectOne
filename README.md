@@ -7,7 +7,6 @@ You can access that dataset [here](Resources/all.csv).
 
 ## What are some questions we can ask?
 
-* literacy level / percent literacy
 * Growth rate
 * Religious population / percentage
 * Drinking water vs paved roads
@@ -21,7 +20,7 @@ Jake Clifton - Growth Rate - How does the infrastructure impact the growth rate?
 
 Laura Bullard - Which religion is most common in each district? How are they distributed throughout India? 
 
-Brandon Damore - Literacy vs amenities in each district. Is there a correlation between the two?
+Brandon Damore - Literacy vs amenities in each district. Do more literate areas have more access to amenities than less literate ones?
 
 Matt O'Connor - Effect of rural areas on education
 
