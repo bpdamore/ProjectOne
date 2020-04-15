@@ -20,9 +20,9 @@ The cleaned dataset can be seen [here](Resources/cleaned.csv).
 
 ## What are we trying to find out?
 
-Jake Clifton - Growth Rate -  How does education and sex distribution impact the growth rate in India?
+Jake Clifton - Growth Rate -  How does the number of people per household and sex distribution impact the growth rate in India?
 
-Laura Bullard - Which religion is most common in each district? How are they distributed throughout India? 
+Laura Bullard - Which religion is most common in each State? How are they distributed throughout India?
 
 Brandon Damore - Literacy vs amenities in each district. Do more literate areas have more access to amenities than less literate ones?
 
@@ -37,3 +37,5 @@ Since each question will require different columns to be used and to be created,
 Once the data has been cleaned, it will be exported into its own csv file. A second jupyter notebook will import that data so that everyone can work with a clean dataset. 
 
 This second notebook will be divided by name and question, and each person will analyze the data through different graphs, summaries, and formulas. From there, each person will move to answer their question. 
+
+
