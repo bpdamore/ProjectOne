@@ -22,7 +22,7 @@ The cleaned dataset can be seen [here](Resources/cleaned.csv).
 
 Jake Clifton - Growth Rate -  How does the number of people per household and sex distribution impact the growth rate in India?
 
-Laura Bullard - Which religion is most common in each State? How are they distributed throughout India?
+Laura Bullard - Which religion is most common in each State? How do the religions differ between high and low populated states?
 
 Brandon Damore - Literacy vs amenities in each district. Do more literate areas have more access to amenities than less literate ones?
 
